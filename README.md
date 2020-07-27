@@ -1,5 +1,6 @@
 # vide
 
+不再更新了，因为我重新写了配置，新配置在这里[vime](https://github.com/fgheng/vime)
 ---
 
 [TOC]
